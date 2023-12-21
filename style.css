@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    width: 218px;
+    height: 218px;
+    background: #FE0303;
+    float: left;
+}
+.box2{
+    width: 218px;
+    height: 218px;
+    background: #0500FF;
+    float: right;
+}
